@@ -1,7 +1,5 @@
-SMS-Manager
-===========
-
 SMS Manager for Wordpress
+=========================
 
 Allows you to send SMS to your registerd Wordpress' users. Only you need to choose in the option area, which variable will be the phone number to send to your subscribers. You can use an actual variable from Wordpress like Jabber, and then, fill with phone numbers.
 
@@ -19,7 +17,7 @@ Installation
 
 = Setup =
 
-You'll need to have a Clickatell account. You can create one in  , and then with your account user and password, use it in this area.
+You'll need to have a Bulk SMS Provider account. You can create one in  , and then with your account user and password, use it in this area.
 
 1. Sign up with http://www.dpbolvw.net/click-6479416-10807973
 2. Create a new connection of type HTTP with Bulk SMS Provider
